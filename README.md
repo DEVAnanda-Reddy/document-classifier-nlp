@@ -112,3 +112,13 @@ This project uses:
 * Automatically sorts `.txt` files into category folders
 
 ---
+
+## 🖼️ Streamlit App Interface Preview
+
+![Streamlit UI Screenshot](https://raw.githubusercontent.com/DEVAnanda-Reddy/document-classifier-nlp/main/UI_ScreenShot.png)
+
+
+---
+
+
+---
