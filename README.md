@@ -34,15 +34,15 @@ This project classifies raw text and `.txt` files into predefined categories and
 
 document-classifier-nlp/
 │
-├── app.py                          # Streamlit app
-├── meta_basic.json                 # Model metadata (categories, max_len)
-├── requirements.txt                # Required dependencies
-├── Document_Classification.ipynb   # Training notebook
-├── basic_dl_doc_classification.ipynb
-├── project.ipynb
-├── Data/                           # Training data
-├── New_Files/                      # New test files
-└── Doc calssifier.png              # App preview image
+├── Data/                               # Training data
+├── New_Files/                          # New test files
+├── UI_ScreenShot.png                   # App preview image
+├── app.py                              # Streamlit app
+├── basic_dl_doc_classification.ipynb   # Training notebook
+├── meta_basic.json                     # Model metadata (categories, max_len)
+├── news_basic_dl_model.h5              # Trained deep learning model
+└── requirements.txt                    # Required dependencies
+
 
 ````
 
